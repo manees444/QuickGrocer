@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuickGrocer</string>
+    <string name="categories">Categories</string>
+    <string name="sub_categories">Sub Categories</string>
+    <string name="usernameError">Enter Valid Username</string>
+    <string name="nameError">Enter Valid Name</string>
+    <string name="emailError">Enter Valid Email</string>
+    <string name="err_password">Enter a Valid Password</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Close</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
